@@ -1,7 +1,6 @@
-title: The Solution Architect
+title: The Solution Architect Survival Guide
 description: >-
-  Practical notes on solution architecture and enterprise architecture:
-  principles, methodologies, frameworks, and lessons from real systems.
+  Practical career lessons on solution architecture, system design and enterprise architecture: principles, methodologies, frameworks, and real world examples of news worthy failures, and what could have been done to mitigate those failures.
 theme: minima
 minima:
   skin: dark
